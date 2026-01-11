@@ -1,4 +1,5 @@
 # Longusa123
 Longusa 
-![walls](https://raw.githubusercontent.com/tllong414-web/Longusa123/main/walls.png)
-![floor](https://raw.githubusercontent.com/tllong414-web/Longusa123/main/floor.png)
+![walls](https://github.com/tllong414-web/Longusa123/blob/main/walls.png?raw=true)
+
+![floor](https://github.com/tllong414-web/Longusa123/blob/main/floor.png?raw=true)
